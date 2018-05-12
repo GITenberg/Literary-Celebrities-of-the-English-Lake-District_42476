@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41707'
     url: http://www.gutenberg.org/2009/agents/41707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42476#Literary-Celebrities-of-the-English-Lake-District
 gutenberg_issued: '2013-04-07'
 gutenberg_type: Text
 identifiers:
