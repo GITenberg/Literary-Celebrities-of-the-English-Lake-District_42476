@@ -1,0 +1,27 @@
+_repo: Literary-Celebrities-of-the-English-Lake-District_42476
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42476-h/images/xfrontcover.jpg
+creator:
+  author:
+    agent_name: Sessions, Frederick
+    gutenberg_agent_id: '41707'
+    url: http://www.gutenberg.org/2009/agents/41707
+description: ''
+gutenberg_issued: '2013-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lake poets'
+- !lcc 'PR'
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'Lake District (England) -- Biography'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+title: Literary Celebrities of the English Lake-District
+url: http://www.gutenberg.org/ebooks/42476
